@@ -1,2 +1,0 @@
-zuul.routes.clog.path=/clog/**
-zuul.routes.clog.url=http://localhost:8003/
